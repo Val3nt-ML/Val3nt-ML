@@ -1,6 +1,6 @@
 👋 Hi, I’m Valentin, I have a double degree in Machine Learning from the University of Cergy-Pontoise and an engineering degree from E.N.S.E.A. 🎓
 
-I am currently looking for a challenging position, in which I wish to lead end-to-end projects (Data Extraction and Processing, Design and Modeling of Machine Learning solutions).
+I wish to lead end-to-end projects (Data Extraction and Processing, Design and Modeling of Machine Learning solutions).
 
 I first specialized in Deep Learning and Reinforcement Learning, as a Data Scientist in the SkyCentre research and development laboratory at Thales. 
 Then, I decided to work in the insurance and finance fields, as a Data Scientist at Le Conservateur group since 2020.
